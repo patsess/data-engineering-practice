@@ -57,7 +57,7 @@ prison==0.1.2
 psutil==5.6.7
 py4j==0.10.7
 Pygments==2.5.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyrsistent==0.15.6
 pyspark==2.4.4
 python-daemon==2.1.2
